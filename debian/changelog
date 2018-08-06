@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.2bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 06 Aug 2018 17:18:31 +0200
+
 grub2 (2.02-2ubuntu8.2) bionic; urgency=medium
 
   * debian/rules: replace GRUB_HIDDEN_* variables with the more concise and
