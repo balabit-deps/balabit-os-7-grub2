@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.4bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Tue, 11 Sep 2018 15:03:01 +0200
+
 grub2 (2.02-2ubuntu8.4) bionic; urgency=medium
 
   * debian/patches/ofnet-init-structs-in-bootpath-parser.patch: initialize
