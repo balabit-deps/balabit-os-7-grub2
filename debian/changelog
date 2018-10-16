@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.6bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Tue, 16 Oct 2018 14:29:09 +0200
+
 grub2 (2.02-2ubuntu8.6) bionic; urgency=medium
 
   * debian/patches/linuxefi_fix_relocate_coff.patch: fix typo in
