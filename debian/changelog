@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.7bb2) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 31 Oct 2018 17:51:51 +0100
+
 grub2 (2.02-2ubuntu8.7bb1) bionic; urgency=medium
 
   * rebase to the newest upstream source
