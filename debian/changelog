@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.13bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 06 Apr 2019 04:23:13 +0200
+
 grub2 (2.02-2ubuntu8.13) bionic; urgency=medium
 
    * debian/build-efi-images: add HTTP to generated UEFI images. (LP: #1787630)
