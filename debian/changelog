@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.15bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 21 Mar 2020 04:24:06 +0100
+
 grub2 (2.02-2ubuntu8.15) bionic; urgency=medium
 
   * Make the linux command in EFI grub always try EFI handover; thanks
