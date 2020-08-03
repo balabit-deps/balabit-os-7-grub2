@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.17bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 03 Aug 2020 16:37:13 +0200
+
 grub2 (2.02-2ubuntu8.17) bionic; urgency=medium
 
   * debian/postinst.in: Avoid calling grub-install on upgrade of the grub-pc
