@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.18bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Tue, 01 Sep 2020 13:59:56 +0200
+
 grub2 (2.02-2ubuntu8.18) bionic; urgency=medium
 
   * debian/patches/ubuntu-flavour-order.patch:
