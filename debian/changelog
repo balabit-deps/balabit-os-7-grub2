@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.19bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 14 Nov 2020 17:28:07 +0100
+
 grub2 (2.02-2ubuntu8.19) bionic; urgency=medium
 
   * grub-install: cherry-pick patch from grub-devel to make grub-install
