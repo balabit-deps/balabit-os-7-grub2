@@ -1,3 +1,9 @@
+grub2 (2.02-2ubuntu8.20bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 23 Nov 2020 14:39:43 +0100
+
 grub2 (2.02-2ubuntu8.20) bionic; urgency=medium
 
   * Avoid "EFI stub: FIRMWARE BUG" message when booting >= 5.7 kernels
